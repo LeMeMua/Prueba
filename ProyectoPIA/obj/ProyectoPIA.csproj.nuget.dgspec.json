@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\ProyectoPIA\\ProyectoPIA.csproj": {}
+    "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\ProyectoPIA\\ProyectoPIA.csproj": {
+    "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\ProyectoPIA\\ProyectoPIA.csproj",
+        "projectUniqueName": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj",
         "projectName": "ProyectoPIA",
-        "projectPath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\ProyectoPIA\\ProyectoPIA.csproj",
+        "projectPath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj",
         "packagesPath": "C:\\Users\\yosss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\ProyectoPIA\\obj\\",
+        "outputPath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

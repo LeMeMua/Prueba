@@ -5,6 +5,7 @@ namespace ProyectoPIA
 {
     public partial class Form1 : Form
     {
+        public string nombre;
         public Form1()
         {
             InitializeComponent();

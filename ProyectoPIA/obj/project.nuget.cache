@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OosqLesAvZI=",
+  "dgSpecHash": "PxvH6Dr0abk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\ProyectoPIA\\ProyectoPIA.csproj",
+  "projectFilePath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yosss\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\yosss\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
