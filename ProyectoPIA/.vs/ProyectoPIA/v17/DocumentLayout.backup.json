@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{816878DC-8543-4BC9-AC1B-B619B627AEF3}|ProyectoPIA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816878DC-8543-4BC9-AC1B-B619B627AEF3}|ProyectoPIA.csproj|c:\\users\\yosss\\onedrive - universidad autonoma de nuevo le\u00F3n\\documents\\fcfm\\4to semestre\\programaci\u00F3n avanzada\\prueba\\proyectopia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{816878DC-8543-4BC9-AC1B-B619B627AEF3}|ProyectoPIA.csproj|C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo Le\u00F3n\\Documents\\FCFM\\4to Semestre\\Programaci\u00F3n avanzada\\Prueba\\ProyectoPIA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{816878DC-8543-4BC9-AC1B-B619B627AEF3}|ProyectoPIA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,25 +62,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo Le\u00F3n\\Documents\\FCFM\\4to Semestre\\Programaci\u00F3n avanzada\\Prueba\\ProyectoPIA\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo Le\u00F3n\\Documents\\FCFM\\4to Semestre\\Programaci\u00F3n avanzada\\Prueba\\ProyectoPIA\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:27:53.701Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo Le\u00F3n\\Documents\\FCFM\\4to Semestre\\Programaci\u00F3n avanzada\\Prueba\\ProyectoPIA\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo Le\u00F3n\\Documents\\FCFM\\4to Semestre\\Programaci\u00F3n avanzada\\Prueba\\ProyectoPIA\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T05:53:02.485Z",
               "EditorCaption": ""
@@ -108,6 +96,18 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T04:38:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo Le\u00F3n\\Documents\\FCFM\\4to Semestre\\Programaci\u00F3n avanzada\\Prueba\\ProyectoPIA\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo Le\u00F3n\\Documents\\FCFM\\4to Semestre\\Programaci\u00F3n avanzada\\Prueba\\ProyectoPIA\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:27:53.701Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",

@@ -1672,11 +1672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj",
+      "projectUniqueName": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\Prueba\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj",
       "projectName": "ProyectoPIA",
-      "projectPath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj",
+      "projectPath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\Prueba\\Prueba\\ProyectoPIA\\ProyectoPIA.csproj",
       "packagesPath": "C:\\Users\\yosss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\FCFM\\4to Semestre\\Programación avanzada\\Prueba\\ProyectoPIA\\obj\\",
+      "outputPath": "C:\\Users\\yosss\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\Prueba\\Prueba\\ProyectoPIA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1708,7 +1708,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1738,7 +1739,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
