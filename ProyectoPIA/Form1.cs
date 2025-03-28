@@ -7,6 +7,8 @@ namespace ProyectoPIA
     {
         public string nombre;
         public string edad;
+        public string carrera;
+
         public Form1()
         {
             InitializeComponent();
